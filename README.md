@@ -1,37 +1,44 @@
-# Dealsbe – Exclusive Software Deals for Developers & Startups
+# FinMentor AI – مشاور مالی هوشمند با هوش مصنوعی
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/dealsbe?logo=github)](https://github.com/yourusername/dealsbe/stargazers)
-[![License](https://img.shields.io/github/license/yourusername/dealsbe?logo=mit)](https://github.com/yourusername/dealsbe/blob/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/yourusername/dealsbe?logo=issue-tracker)](https://github.com/yourusername/dealsbe/issues)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/finmentor-ai?logo=github&color=blue)](https://github.com/yourusername/finmentor-ai/stargazers)
+[![License](https://img.shields.io/github/license/yourusername/finmentor-ai?logo=mit&color=green)](https://github.com/yourusername/finmentor-ai/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/yourusername/finmentor-ai?logo=issue-tracker&color=red)](https://github.com/yourusername/finmentor-ai/issues)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF6B35?logo=streamlit)](https://finmentor-ai.streamlit.app)
 
-![Dealsbe Banner](https://via.placeholder.com/1200x400/4A90E2/FFFFFF?text=Dealsbe+-+Save+on+Software+for+Startups) <!-- جایگزین با لوگوی واقعی -->
+![FinMentor AI Banner](https://via.placeholder.com/1200x400/007BFF/FFFFFF?text=FinMentor+AI+-+مشاور+مالی+هوشمند) <!-- جایگزین با لوگوی واقعی -->
 
-## درباره Dealsbe
+## درباره FinMentor AI
 
-**Dealsbe** پلتفرم شماست برای **تخفیف‌های انحصاری نرم‌افزار و SaaS** – طراحی‌شده برای **توسعه‌دهندگان و استارت‌آپ‌ها**. با Dealsbe، بیش از **۱,۰۰۰,۰۰۰ دلار صرفه‌جویی** کنید در ابزارهایی مثل AWS، Intercom، GitHub، Notion و غیره. ما **تخفیف‌های واقعی و قابل تأیید** ارائه می‌دیم، بدون ترفندهای تبلیغاتی!
+**FinMentor AI** یک پلتفرم **مشاوره مالی هوشمند** مبتنی بر هوش مصنوعی است که به تریدرها و سرمایه‌گذاران کمک می‌کنه تا در بازارهای **سهام آمریکا (NYSE/NASDAQ)**، **استرالیا (ASX)** و **کریپتو** تصمیم‌گیری‌های آگاهانه بگیرن. با استفاده از **مدل هیبریدی داده‌ها** (ترکیب off-chain برای سهام و on-chain برای کریپتو)، هزینه‌های دسترسی به داده‌ها رو ۲۰-۳۰% کاهش می‌ده و دقت پیش‌بینی‌ها رو به ۸۵%+ می‌رسونه.
 
-### چرا Dealsbe؟
-- **تخفیف‌های واقعی**: کدهای پرومو معتبر با سیستم ردیابی قیمت (برخلاف سایت‌های جعلی).
-- **مناسب استارت‌آپ‌ها**: تخفیف‌های ۴۰-۹۰% در ابزارهای توسعه، بازاریابی، HR و کلود.
-- **رایگان برای استفاده**: فقط ثبت‌نام کنید و تخفیف‌ها رو فعال کنید.
-- **جامعه**: بیش از ۱۰,۰۰۰ توسعه‌دهنده و بنیان‌گذار از Dealsbe استفاده می‌کنن.
+### مأموریت
+- **هدف**: تحول مشاوره مالی با AI – بدون احساسات، فقط داده‌های حجیم و تحلیل منطقی.
+- **مخاطبان**: تریدرهای مبتدی تا حرفه‌ای، استارت‌آپ‌ها، و سرمایه‌گذاران فردی.
+- **مزایا**: کاهش ریسک، بهینه‌سازی پرتفولیو، و صرفه‌جویی در هزینه (از APIهای رایگان مثل CoinGecko و Polygon).
 
-### ویژگی‌های کلیدی
-- **تخفیف‌های تازه**: هر هفته پیشنهادهای جدید (مثل GitHub Enterprise رایگان برای ۱ سال).
-- **دسته‌بندی‌ها**: توسعه (VS Code, Docker)، بازاریابی (HubSpot)، کلود (AWS, DigitalOcean).
-- **ابزارهای اضافی**: مقایسه قیمت، نظرات کاربران، و هشدار تخفیف.
-- **صرفه‌جویی واقعی**: مثال: ۹۰% تخفیف Dropbox برای استارت‌آپ‌های جدید.
+## ویژگی‌های کلیدی
+
+- **پیش‌بینی بازار هوشمند**: مدل هیبریدی (XGBoost برای off-chain + LSTM برای on-chain) – پیش‌بینی ۱-۳۰ روزه با دقت ۸۵%+.
+- **مدیریت پرتفولیو و ریسک**: بهینه‌سازی با یک کلیک، نقشه حرارتی همبستگی، و امتیاز سلامت پرتفولیو (مثل ۴۰% سهام US، ۳۰% AU، ۳۰% کریپتو).
+- **فید هوشمند**: پیشنهادهای شخصی‌سازی‌شده بر اساس داده‌های کاربر (مثل "سنتیمنت ETH مثبت – وزن رو افزایش بده").
+- **آموزش و شبیه‌سازی**: حالت Sim Mode برای معامله کاغذی، چالش‌های هوشمند (مثل بحران ۲۰۰۸)، و مربی AI.
+- **دستیار شخصی AI**: چت‌بات برای سؤالات (مثل "تحلیل ریسک AAPL چطوره؟").
+- **ادغام بازارها**: سهام آمریکا/استرالیا + کریپتو (۱۳۰+ توکن)، با تمرکز روی eToro.
+
+### مثال خروجی
+- **پیش‌بینی**: AAPL: +۵.۲% در ۷ روز (بر اساس حجم on-chain ETH).
+- **ریسک**: "همبستگی بالا با S&P 500 – پیشنهاد: ۱۰% به BHP منتقل کن."
 
 ## نصب و راه‌اندازی
 
-Dealsbe یک وب‌اپ ساده است – فقط مرورگر لازم داره!
+FinMentor AI یک وب‌اپ Streamlit است – مجانی و آسان!
 
 ### پیش‌نیازها
-- مرورگر مدرن (Chrome, Firefox).
-- حساب GitHub (برای دسترسی به تخفیف‌ها).
+- Python 3.8+.
+- GitHub اکانت (برای لانچ آنلاین).
 
-### راه‌اندازی محلی (اختیاری – برای توسعه‌دهندگان)
+### راه‌اندازی محلی
 1. کلون کنید:
    ```bash
-   git clone https://github.com/yourusername/dealsbe.git
-   cd dealsbe
+   git clone https://github.com/yourusername/finmentor-ai.git
+   cd finmentor-ai
